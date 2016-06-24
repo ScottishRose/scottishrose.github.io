@@ -1,0 +1,21 @@
+body {
+  color: #7147FF;
+  font-family: Arial;
+  background-color: #8FB9FF;
+}
+h1 {
+  font-size: 30px;
+  text-decoration: underline;
+  font-style: italic;
+ 
+}
+li{
+  font-style: italic;
+}
+h3{
+  text-decoration: underline;
+  text- weight: bold;
+}
+a {
+  color: white;
+}
