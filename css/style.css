@@ -1,21 +1,23 @@
 body {
-  color: #7147FF;
+  color: #7A324A;
   font-family: Arial;
-  background-color: #8FB9FF;
+  background-color: #466970;
+  text-align: center;
 }
 h1 {
   font-size: 30px;
   text-decoration: underline;
   font-style: italic;
- 
+
 }
 li{
   font-style: italic;
 }
 h3{
   text-decoration: underline;
-  text- weight: bold;
+  font-weight: bold;
 }
 a {
   color: white;
+  text-decoration: none;
 }
