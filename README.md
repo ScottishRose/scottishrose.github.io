@@ -1,17 +1,18 @@
-3 goals for wdi and spirit animal
+# ABOUT ME PAGE 
 
-# Stef Boone 
+For my `about me` page, I used various html tags and css styles to achieve the look that I wanted.
 
----
+## HTML 
 
-### Three Goals for WDI:
+I used the following html tags in addition to the standard ones:
 
-- Have a firm understanding of the JavaScript language
-- Have a solid portfolio, demonstrating my work
-- Enjoy my time and build a network, both in class and outside of class
+    - `<div>`
+    - `<img>`
+    - `<p>`
+    - `<h2>`, `<h4>`
+    - `<a>`
+    - `<footer>`
 
----
+I also used different `class`es and `id`s in order to style sections easier in css. 
 
-### My Spirit Animal:
 
-![Animal] ("https://www.instagram.com/p/BItKKyXjC2h/?taken-by=tunameltsmyheart")
